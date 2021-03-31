@@ -1,10 +1,11 @@
-package kamalHomeWork;
+package amazonHomework;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
 
-public class AmazonHomework {
+public class Base {
+
     static String chromeRelativePath = "/resources/webdrivers/Windows/chromedriver.exe";
     static String chromeDriverPath = System.getProperty("user.dir") + chromeRelativePath;
     static WebDriver chromeDriver;
@@ -53,4 +54,3 @@ public class AmazonHomework {
 
 
 }
-
