@@ -1,4 +1,4 @@
 package anjumanHomeWork;
 
-public class AmazonHomeWork git {
+public class AmazonHomeWork  {
 }
